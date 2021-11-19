@@ -1,0 +1,1 @@
+curl -G -d country="US" -d year="2020" -d pretty -d key="a1b7e2c8-f428-4065-8758-3bfb689c3448" "https://holidayapi.com/v1/holidays"
